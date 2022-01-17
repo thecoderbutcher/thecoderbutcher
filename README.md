@@ -3,8 +3,7 @@
 
 - :computer: I’m currently working on my own projects
 - 📚 I’m currently learning javascript full stack (NodeJs, Vue, React)
-- :eyes: I’m looking to collaborate on js project for my trainee
-
+- :eyes: I’m looking to collaborate on js project to complete my learning
 <div align="center">
     <a href="https://morinacho.github.io/me/" target="_blank">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=morinacho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
