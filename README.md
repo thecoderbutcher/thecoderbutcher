@@ -20,7 +20,6 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="golang">
-    <img align="center" height="30" width="40" src="https://github.com/morinacho/morinacho/blob/main/icons/icons8-html-5-30.png" alt="golang">
     
 </div>
 <br>
