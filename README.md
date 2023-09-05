@@ -5,9 +5,9 @@
 - 📚 I’m currently learning javascript full stack (NodeJs, Vue, React)
 - :eyes: I’m looking to collaborate on js project to complete my learning
 <div align="center">
-    <a href="https://morinacho.github.io/" target="_blank">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=morinacho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morinacho&layout=compact&langs_count=16&theme=github_dark">
+    <a href="thecoderbutcher.github.io" target="_blank">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderbutcher&layout=compact&langs_count=16&theme=github_dark">
     </a>
 </div>
 <br>
@@ -24,7 +24,6 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://t.me/morinacho"></s><img  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://www.linkedin.com/in/ismael-ignacio-morinigo-8822a538/"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/ignaciomorinigo/"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="javascript:void(0);"></s><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
 </div>
