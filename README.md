@@ -1,9 +1,16 @@
+<div align="center">
+    <a href="https://miraidev.com"></s>
+        <img  src="./icons/banner.png" alt="banner" />
+    </a> 
+</div>
+
 ### I'm a constantly growing 🌐 web developer, passionate about 🎨 graphic design, 🍕 pizza lover and an 📚 information systems engineer in process 
 
 
 - :computer: I’m currently working on my own projects
 - 📚 I’m currently learning javascript full stack (NodeJs, Vue, React)
 - :eyes: I’m looking to collaborate on js project to complete my learning
+
 <div align="center">
     <a href="thecoderbutcher.github.io" target="_blank">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
@@ -25,5 +32,4 @@
 <br>
 <div align="center">
     <a href="https://www.linkedin.com/in/ignaciomorinigo/"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="javascript:void(0);"></s><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
 </div>
