@@ -1,15 +1,15 @@
 <div align="center">
-    <a href="https://miraidev.com"></s>
+    <a href="https://miraidev.com" target="_blank"></s>
         <img  src="./icons/banner.png" alt="banner" />
     </a> 
 </div>
 
 ### I'm a constantly growing 🌐 web developer, passionate about 🎨 graphic design, 🍕 pizza lover and an 📚 information systems engineer in process 
 
-
+- 👨‍💻 I created Mirai Dev for the development of modern web applications using the best technologies, agile methodologies and latest generation tools.
 - :computer: I’m currently working on my own projects
-- 📚 I’m currently learning javascript full stack (NodeJs, Vue, React)
-- :eyes: I’m looking to collaborate on js project to complete my learning
+- 📚 I’m currently learning JavaScript full stack (React, NextJs, NodeJs, TypeScript)
+- :eyes: I’m looking to collaborate on Js project to complete my learning
 
 <div align="center">
     <a href="thecoderbutcher.github.io" target="_blank">
@@ -31,5 +31,5 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://www.linkedin.com/in/ignaciomorinigo/"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/ignaciomorinigo/" target="_blank"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
