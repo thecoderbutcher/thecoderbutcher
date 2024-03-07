@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="thecoderbutcher.github.io" target="_blank">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=reviews,discussions_answered,prs_merged">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=reviews,discussions_answered">
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderbutcher&layout=compact&langs_count=10&theme=github_dark">
     </a>
 </div>
