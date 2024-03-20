@@ -11,7 +11,7 @@
 - :eyes: I’m looking to collaborate on Js project to complete my learning
 - 👨‍💻 I created Mirai Dev for the development of modern web applications using the best technologies, agile methodologies and latest generation tools.
 
-![](https://komarev.com/ghpvc/?username=thecoderbutcher&abbreviated=true&label=VIEWS&style=plastic&color=9A34F9)
+![](https://komarev.com/ghpvc/?username=thecoderbutcher&abbreviated=true&label=VIEWS&style=flat-square&color=9A34F9)
 
 <div align="center">
     <a href="www.miraidev.com" target="_blank">
