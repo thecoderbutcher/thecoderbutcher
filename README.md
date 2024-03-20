@@ -10,6 +10,7 @@
 - 📚 I’m currently learning JavaScript full stack (React, NextJs, NodeJs, TypeScript)
 - :eyes: I’m looking to collaborate on Js project to complete my learning
 - 👨‍💻 I created Mirai Dev for the development of modern web applications using the best technologies, agile methodologies and latest generation tools.
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 <div align="center">
     <a href="www.miraidev.com" target="_blank">
@@ -45,5 +46,4 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/ignaciomorinigo/" target="_blank"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
