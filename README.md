@@ -10,11 +10,10 @@
 - 📚 I’m currently learning JavaScript full stack (React, NextJs, NodeJs, TypeScript)
 - :eyes: I’m looking to collaborate on Js project to complete my learning
 - 👨‍💻 I created Mirai Dev for the development of modern web applications using the best technologies, agile methodologies and latest generation tools.
-  
 
+![](https://komarev.com/ghpvc/?username=thecoderbutcher&abbreviated=true)
 
 <div align="center">
-    ![](https://komarev.com/ghpvc/?username=thecoderbutcher&abbreviated=true)
     <a href="www.miraidev.com" target="_blank">
       <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=reviews,discussions_answered">
       <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderbutcher&layout=compact&langs_count=10&theme=github_dark">
