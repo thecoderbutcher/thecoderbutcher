@@ -18,9 +18,6 @@
       <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=reviews,discussions_answered">
       <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderbutcher&layout=compact&langs_count=10&theme=github_dark">
     </a>
-    
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
-
 </div>
 <br>
 <div align="center" style="display: inline-block;">
@@ -51,3 +48,6 @@
     <a href="https://www.linkedin.com/in/ignaciomorinigo/" target="_blank"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
+
+    
+[![Image of https://github.com/gayanvoice/my-profile-views-counter]([https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg))]([https://github.com/gayanvoice/my-profile-views-counter](https://github.com/thecoderbutcher)https://github.com/thecoderbutcher)
