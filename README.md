@@ -11,7 +11,7 @@
 - :eyes: I’m looking to collaborate on Js project to complete my learning
 - 👨‍💻 I created Mirai Dev for the development of modern web applications using the best technologies, agile methodologies and latest generation tools.
   
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <div align="center">
     <a href="www.miraidev.com" target="_blank">
@@ -47,10 +47,3 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/ignaciomorinigo/" target="_blank"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
-
-
-
-
-
-    
-[![Image of https://github.com/gayanvoice/my-profile-views-counter]([https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg))]([https://github.com/gayanvoice/my-profile-views-counter](https://github.com/thecoderbutcher)https://github.com/thecoderbutcher)
