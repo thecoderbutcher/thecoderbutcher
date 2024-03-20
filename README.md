@@ -45,4 +45,4 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/ignaciomorinigo/" target="_blank"></s><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
-![](https://komarev.com/ghpvc/?username=thecoderbutcher&base=1000)
+https://komarev.com/ghpvc/?username=thecoderbutcher&base=1000
