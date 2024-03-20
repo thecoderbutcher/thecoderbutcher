@@ -11,7 +11,7 @@
 - :eyes: I’m looking to collaborate on Js project to complete my learning
 - 👨‍💻 I created Mirai Dev for the development of modern web applications using the best technologies, agile methodologies and latest generation tools.
   
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![](https://komarev.com/ghpvc/?username=thecoderbutcher&abbreviated=true)
 
 <div align="center">
     <a href="www.miraidev.com" target="_blank">
