@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://thecoderbutcher.site" target="_blank"></s>
+    <a href="https://thecoderbutcher.site" target="_blank">
         <img  src="./icons/banner.webp" alt="banner" />
     </a> 
 </div>
@@ -14,6 +14,8 @@
 ![](https://komarev.com/ghpvc/?username=thecoderbutcher&abbreviated=true&label=VIEWS&style=flat-square&color=4000D2)
 
 <div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=reviews,discussions_answered">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderbutcher&layout=compact&langs_count=10&theme=github_dark">
+    <a href="https://thecoderbutcher.site" target="_blank">
+      <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thecoderbutcher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=reviews,discussions_answered" />
+      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderbutcher&layout=compact&langs_count=10&theme=github_dark" />
+    </a>
 </div>
