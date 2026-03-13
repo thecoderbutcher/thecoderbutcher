@@ -1,10 +1,10 @@
 <div align="center">
     <a href="https://thecoderbutcher.site" target="_blank">
-        <img  src="./icons/banner.webp" alt="banner" />
-    </a> 
+        <img  src="./banner.webp" alt="banner" />
+    </a>
 </div>
 
-### I'm a constantly growing 🌐 web developer, passionate about 🎨 graphic design, 🍕 pizza lover and an 📚 information systems engineer in process 
+### I'm a constantly growing 🌐 web developer, passionate about 🎨 graphic design, 🍕 pizza lover and an 📚 information systems engineer in process
 
 - :computer: I’m currently working on my own projects
 - 📚 I’m currently learning JavaScript full stack (React, NextJs, NodeJs, TypeScript)
